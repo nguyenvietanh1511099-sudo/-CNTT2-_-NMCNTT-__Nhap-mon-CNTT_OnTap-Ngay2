@@ -1,7 +1,7 @@
 # BÀI LÀM – ÔN TẬP NGÀY 2
 
 - **Họ tên:** Nguyễn Anh Thư
-- **Lớp:** CNTT2
+- **Lớp:** 2
 - **Link repository:**
 - **Hệ điều hành (Windows/macOS):** macos
 
